@@ -1,0 +1,8 @@
+{
+    "Print to Console":{
+        "prefix": "clogg",
+        "body": "console.log($1);\n$0",
+        "description": "log content to the console"
+    }
+     
+}
